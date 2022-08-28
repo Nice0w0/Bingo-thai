@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "brpineappleregular";
+    src: url('http://49.231.243.3/p642/64209030003/Cdn/font/brpineapple-webfont.woff2') format('woff2'),
+        url('http://49.231.243.3/p642/64209030003/Cdn/font/brpineapple-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
